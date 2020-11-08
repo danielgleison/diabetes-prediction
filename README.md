@@ -1,4 +1,4 @@
-## Mecanismo de predição de diagnóstico de diabetes utilizando aprendizado de máquina e processamento distribuído
+## Diabetes diagnostic prediction mechanism using machine learning and distributed processing
 
 Dataset:\
 http://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset\
