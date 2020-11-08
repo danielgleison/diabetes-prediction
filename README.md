@@ -1,7 +1,7 @@
 ## Mecanismo de predição de diagnóstico de diabetes utilizando aprendizado de máquina e processamento distribuído
 
-Dataset
-http://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset.#
+Dataset:\
+http://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset\
 Date created: 2020-07-12
 
 Associated Tasks: Classification
