@@ -34,3 +34,9 @@ Class 1.Positive, 2.Negative.\
 Missing Attribute Values: Yes
 
 Class Distribution: 320 Positive and 200 Negative
+
+---
+Daniel Gleison M. Lira\
+Mestrado Acadêmico em Ciência da Computação\
+Universidade Estadual do Ceará (UECE)\
+daniel.gleison@aluno.uece.br 
