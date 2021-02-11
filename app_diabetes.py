@@ -232,16 +232,3 @@ if btn_predict:
                     rot = 0, 
                     grid = False)
     st.pyplot(fig)
-   
-   
-    # verificando o dataset
-    #st.subheader("Selecionando as Variáveis de Avaliação")
-
-    # atributos para serem exibidos por padrão
-    #defaultcols = ["Modelo","Acurácia","Precisão","Recall","F1", "Tempo Treino", "FP", "FN", "TP", "TN" ]
-
-    # defindo atributos a partir do multiselect
-    #cols = st.multiselect("Atributos", results.columns.tolist(), default=defaultcols)
-
-    # exibindo os top 8 registro do dataframe
-    #st.dataframe(results[cols].head(7))
