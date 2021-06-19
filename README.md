@@ -1,5 +1,7 @@
 ## Diabetes diagnostic prediction mechanism using machine learning and distributed processing
 
+App Web: http://dg-diabetes-prediction.herokuapp.com/
+
 Dataset:\
 http://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset \
 Date created: 2020-07-12
